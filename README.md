@@ -43,7 +43,7 @@ The proposed food-waste reduction target is 25%. Digital emissions reductions sh
 - `REFERENCES.md` — evidence and verification notes.
 
 ## Important notes
-The original capstone includes school food-waste statistics but does not provide complete source references. Add and verify the original references before republishing those statistics. No pilot implementation, measured emissions reduction or measured food-waste reduction is claimed here.
+The original capstone includes school food-waste estimates and claims with varying levels of evidence. See [REFERENCES.md](REFERENCES.md) for source attribution, corrections, and limitations before reusing any figures. No pilot implementation, measured emissions reduction or measured food-waste reduction is claimed here.
 
 ## My Role and Design Rationale
 
